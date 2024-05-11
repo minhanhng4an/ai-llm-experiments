@@ -25,10 +25,14 @@ If you prefer another name for the environment, change `name` in `environment.ym
 ```
 conda activate <environment_name>
 ```
+6. Create two folders `notebooks` and `data`
+```
+mkdir notebooks
+mkdir data
+```
+7. Download the notebooks from Google Colab as `.ipynb` and put them in `/notebooks`
 
-6. Download the notebooks from Google Colab as `.ipynb` and put them in `/notebooks`
-
-7. Downloaded data could go to `/data`
+8. Downloaded data could go to `/data`
 
 ## Running the notebooks locally
 
