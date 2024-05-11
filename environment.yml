@@ -1,4 +1,4 @@
-name: codepath-test
+name: codepath
 channels:
   - pytorch
   - fastai
